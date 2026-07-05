@@ -6,5 +6,5 @@ reportlab
 requests
 streamlit
 streamlit-folium
-streamlit-mic-recoder
+streamlit-mic-recorder
 supabase
