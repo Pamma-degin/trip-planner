@@ -1,0 +1,10 @@
+folium
+geopy
+google-generativeai
+python-dotenv
+reportlab
+requests
+streamlit
+streamlit-folium
+streamlit-mic-recoder
+supabase
