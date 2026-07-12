@@ -1,0 +1,12 @@
+folium
+geopy
+google-generativeai
+python-dotenv
+reportlab
+requests
+streamlit
+streamlit-folium
+streamlit-mic-recorder
+supabase
+
+executing==2.2.0
