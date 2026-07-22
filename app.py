@@ -1,6 +1,5 @@
 #----------------------------Part 1---------------------------
 # ---------------- IMPORTS ----------------
-from executing import Source
 import streamlit as st
 import google.generativeai as genai
 import requests
