@@ -4,3 +4,6 @@ primaryColor="#8b5cf6"
 backgroundColor="#020617"
 secondaryBackgroundColor="#111827"
 textColor="#ffffff"
+
+[client]
+showSidebarNavigation = false
