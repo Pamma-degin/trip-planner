@@ -12,5 +12,5 @@ plotly
 gtts
 streamlit-lottie
 executing>=2.0
-
+streamlit-cookies-manager-v2==0.3.1
 
